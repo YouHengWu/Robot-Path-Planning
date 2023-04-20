@@ -1018,11 +1018,6 @@ namespace GRA_Project
 
                                 Path[Energy_Sum(New_Control0, New_Control1)].Push(Next_Configuration);
                                 Temp_Answer.Add(Next_Configuration);
-                                /*
-                                print(Next_Configuration.x);
-                                print(Next_Configuration.y);
-                                print(Next_Configuration.angle);
-                                */
                             }
                         }
                     }
